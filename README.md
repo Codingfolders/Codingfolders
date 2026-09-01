@@ -1,2 +1,2 @@
 ## Hello, I'm Codingfolders!
-I'm a hobby coder.
+I'm a hobbyist coder.
